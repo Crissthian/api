@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Pizza Suprema",
+    "descripcion": "Restaurante especializado en pizzas artesanales al horno de leña.",
+    "estrellas": 5,
+    "foto": "https://example.com/fotos/pizza_suprema.jpg",
+    "direccion": "Av. Primavera 123, Santiago de Surco, Lima",
+    "horario": "Lunes a Domingo: 12:00 pm - 11:00 pm",
+    "telefono": "+51 987654321",
+    "paginaWeb": "https://pizzasuprema.com"
+  },
+  {
+    "nombre": "La Rueda Pizzería",
+    "descripcion": "Pizzería tradicional con opciones gourmet y clásicas.",
+    "estrellas": 4,
+    "foto": "https://example.com/fotos/la_rueda.jpg",
+    "direccion": "Jr. Pizzas 456, Miraflores, Lima",
+    "horario": "Lunes a Sábado: 1:00 pm - 10:30 pm",
+    "telefono": "+51 998877665",
+    "paginaWeb": "https://laruedapizzeria.com"
+  },
+  {
+    "nombre": "Pizza y Pasta Fusión",
+    "descripcion": "Combinación única de pizzas y pastas frescas, ideal para toda la familia.",
+    "estrellas": 4.5,
+    "foto": "https://example.com/fotos/pizza_fusion.jpg",
+    "direccion": "Calle Gourmet 789, San Isidro, Lima",
+    "horario": "Martes a Domingo: 1:00 pm - 9:30 pm",
+    "telefono": "+51 945612378",
+    "paginaWeb": "https://pizzaypasta.com"
+  },
+  {
+    "nombre": "Pizzería Italiana Bella",
+    "descripcion": "Sabores auténticos de Italia en el corazón de Lima.",
+    "estrellas": 4.8,
+    "foto": "https://example.com/fotos/bella.jpg",
+    "direccion": "Av. La Marina 1200, Pueblo Libre, Lima",
+    "horario": "Lunes a Domingo: 12:00 pm - 10:00 pm",
+    "telefono": "+51 912345678",
+    "paginaWeb": "https://italianabella.com"
+  },
+  {
+    "nombre": "El Rincón de la Pizza",
+    "descripcion": "Ambiente acogedor con pizzas personalizables para todos los gustos.",
+    "estrellas": 4.2,
+    "foto": "https://example.com/fotos/rincon_pizza.jpg",
+    "direccion": "Plaza Lima Norte, Independencia, Lima",
+    "horario": "Lunes a Domingo: 11:00 am - 10:00 pm",
+    "telefono": "+51 934567890",
+    "paginaWeb": "https://rincondelapizza.com"
+  },
+  {
+    "nombre": "Pizza al Paso",
+    "descripcion": "Deliciosas pizzas al estilo napolitano con ingredientes frescos.",
+    "estrellas": 4.6,
+    "foto": "https://example.com/fotos/pizza_al_paso.jpg",
+    "direccion": "Av. Benavides 305, Miraflores, Lima",
+    "horario": "Martes a Domingo: 2:00 pm - 11:00 pm",
+    "telefono": "+51 923456789",
+    "paginaWeb": "https://pizzaalpaso.com"
+  }
+]
